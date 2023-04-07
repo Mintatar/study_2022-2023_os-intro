@@ -2,7 +2,7 @@
 ## Front matter
 title: "Отчет по лабораторной работе"
 subtitle: "Лабораторная работа № 8"
-author: "Дмитрий Сергеевич Кулябов"
+author: Мурзаев Замир Зейнадинович
 
 ## Generic otions
 lang: ru-RU
